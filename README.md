@@ -2,13 +2,6 @@
 Final project for a statistical modeling course exploring variable selection and model diagnostics.
 Predicts body fat percentage using multiple linear regression in R.
 
-Skills:
-R
-Multiple Linear Regression
-ggplot2
-Model Selection
-Data Visualization
-
 Final predictors: Abdomen, Weight, Wrist
 
 <img width="562" height="133" alt="image" src="https://github.com/user-attachments/assets/108bb6b0-e176-4ba0-9937-5d9f1f351e64" />
